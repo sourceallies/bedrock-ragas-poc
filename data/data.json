@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is my name?",
+    "answer": "Your name is Grey.",
+    "contexts": [
+      "My name is Grey"
+    ],
+    "ground_truth": "Your name is Grey"
+  },
+  {
+    "question": "What is my name?",
+    "answer": "Your name is Matt.",
+    "contexts": [
+      "My name is Grey"
+    ],
+    "ground_truth": "Your name is Grey"
+  }
+]
