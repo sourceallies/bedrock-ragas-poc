@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Which of the terms below best fits the following definition? \"A person who rents land from another person for a share of the proceeds of the crop\"?",
+    "options": [
+      {
+        "key": "A",
+        "option": "Landlord"
+      },
+      {
+        "key": "B",
+        "option": "Tenant"
+      },
+      {
+        "key": "C",
+        "option": "Insured"
+      },
+      {
+        "key": "D",
+        "option": "Shareholder"
+      }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Insureds who purchase coverage at an additional coverage level and who receive an indemnity based on that coverage?",
+    "options": [
+      {
+        "key": "A",
+        "option": "Can never benefit from any other USDA program for the same loss."
+      },
+      {
+        "key": "B",
+        "option": "Can benefit from any other USDA program for the same loss, unless limited by the crop insurance contract or by law."
+      },
+      {
+        "key": "C",
+        "option": "Can choose either the loss or the benefit."
+      },
+      {
+        "key": "D",
+        "option": "Are eligible for 25 percent of the USDA benefit."
+      }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "If allowed by the Crop Provisions, a replanting payment may be made on an insured crop replanted after the AIP has given consent and the acreage replanted is at least the lesser of 20 acres or 20 percent of the insured planted acreage for the ______.",
+    "options": [
+      {
+        "key": "A",
+        "option": "unit"
+      },
+      {
+        "key": "B",
+        "option": "county"
+      },
+      {
+        "key": "C",
+        "option": "crop"
+      },
+      {
+        "key": "D",
+        "option": "None of the above"
+      }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "If the insured or any other person received a prevented planting payment for any crop for the same acreage in the same crop year, to qualify for a full prevented planting payment on that acreage; upon request, the insured must provide acceptable records of acreage and production that show the insured has double cropped acreage in at least ______ of the last _____ crop years in which the insured crop was planted in the county for which the PP claim is being made.",
+    "options": [
+      {
+        "key": "A",
+        "option": "1, 3"
+      },
+      {
+        "key": "B",
+        "option": "3, 5"
+      },
+      {
+        "key": "C",
+        "option": "2, 4"
+      },
+      {
+        "key": "D",
+        "option": "2, 3"
+      }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What type of notice must the insured or insurer provide in order to cancel the policy after the initial crop year?",
+    "options": [
+      {
+        "key": "A",
+        "option": "Verbal notice"
+      },
+      {
+        "key": "B",
+        "option": "Written notice"
+      },
+      {
+        "key": "C",
+        "option": "Notarized notice"
+      },
+      {
+        "key": "D",
+        "option": "No type of notice is required"
+      }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "If the insured has complied with all the policy provisions, it is the AIP's duty to pay the loss within 30 days after the later of:",
+    "options": [
+      {
+        "key": "A",
+        "option": "An agreement between the insured and the company is reached."
+      },
+      {
+        "key": "B",
+        "option": "Completion of arbitration proceedings."
+      },
+      {
+        "key": "C",
+        "option": "Both A & B."
+      },
+      {
+        "key": "D",
+        "option": "None of these."
+      }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "To determine if it is practical to replant after loss or damage to the insured crop, the AIP may consider:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Likelihood of seed germination, emergence, and formation of a healthy plant."
+      },
+      {
+        "key": "B",
+        "option": "Field, soil, and growing conditions allowing for proper planting and growth of the replanted crop to reach maturity."
+      },
+      {
+        "key": "C",
+        "option": "If replanting the acreage is physically possible."
+      },
+      {
+        "key": "D",
+        "option": "All of the above."
+      }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Changes can be made to crop insurance coverage for the crop year through the:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Final acreage reporting date."
+      },
+      {
+        "key": "B",
+        "option": "Production reporting date."
+      },
+      {
+        "key": "C",
+        "option": "End of the late planting period for the crop, or final plant date if no late planting period available for the crop."
+      },
+      {
+        "key": "D",
+        "option": "Sales closing date."
+      }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "For three years after the end of the crop year, an insured must retain and provide upon company request complete records of the planting, replanting, inputs, production, harvesting, and disposition of all insured crop produced on each unit. If an insured fails to maintain such records, the company could:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Determine that no indemnity is due."
+      },
+      {
+        "key": "B",
+        "option": "Assign production to the units."
+      },
+      {
+        "key": "C",
+        "option": "Combine optional units into applicable basic units."
+      },
+      {
+        "key": "D",
+        "option": "All of the above."
+      }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "The policy will result in automatic cancellation if the death of a partner in a partnership occurs more than 30 days before this date:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Acreage Reporting Date"
+      },
+      {
+        "key": "B",
+        "option": "Plant Date"
+      },
+      {
+        "key": "C",
+        "option": "Production Reporting Date"
+      },
+      {
+        "key": "D",
+        "option": "Cancellation Date"
+      }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "When asked to provide records to qualify acreage as double cropped for prevented planting; which of the following is true?",
+    "options": [
+      {
+        "key": "A",
+        "option": "B and D below."
+      },
+      {
+        "key": "B",
+        "option": "The history from another producer is only applicable to the same physical acreage that was double cropped."
+      },
+      {
+        "key": "C",
+        "option": "The history from another producer can be used only if the insured shared in the production from the acreage that was double cropped."
+      },
+      {
+        "key": "D",
+        "option": "The insured's own double cropping history can apply to any acreage of the insured crop in the county"
+      },
+      {
+        "key": "E",
+        "option": "C and D above."
+      }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "The insured must report the current year's crop production on the same basis usd to establish the approved yield(s) by the:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Cancellation date or termination date."
+      },
+      {
+        "key": "B",
+        "option": "Insured's production reporting date contained in the actuarial documents."
+      },
+      {
+        "key": "C",
+        "option": "Acreage reporting date or January 1 of the following year."
+      },
+      {
+        "key": "D",
+        "option": "Sales closing date or 45 days after the acreage reporting date."
+      }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "If acreage is under-reported, all production or value from the insurable acreage for the unit:",
+    "options": [
+      {
+        "key": "A",
+        "option": "Will increase premium on the policy."
+      },
+      {
+        "key": "B",
+        "option": "Will result in a fee on the policy."
+      },
+      {
+        "key": "C",
+        "option": "Will be considered production or value to count in determining the indemnity."
+      },
+      {
+        "key": "D",
+        "option": "Will not be considered production or value to count in determining the indemnity."
+      }
+    ],
+    "correct_answer": "C"
+  }
+]
